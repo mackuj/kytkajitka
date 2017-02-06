@@ -1,1 +1,1 @@
-sphinxcontrib-bibtext
+sphinxcontrib-bibtex
